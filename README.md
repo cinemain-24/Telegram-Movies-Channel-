@@ -7,7 +7,7 @@
 | # | Channel / Group | Link |
 |---|-----------------|------|
 | 01 | 🎬 CINEMAIN | [Join](https://t.me/cinemain_24) |
-| 02 | 🎬 Channel 02 | [Join](https://t.me/channel2) |
+| 02 | 🎬 Cinemain Chat| [Join](https://t.me/channel2) |
 | 03 | 🎬 Channel 03 | [Join](https://t.me/channel3) |
 | 04 | 🎬 Channel 04 | [Join](https://t.me/channel4) |
 | 05 | 🎬 TGV Cinema | [Join](https://t.me/TGVCinema) |
