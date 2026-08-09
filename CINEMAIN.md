@@ -7,7 +7,7 @@
 ## 📱 APP PREVIEW
 
 <p align="center">
-  <img src="assets/cinemain-preview.jpg" width="500">
+  <img src="assets/cinemain-screenshot.png" width="500">
 </p>
 
 ---
