@@ -10,7 +10,7 @@
 | 02 | 🎬 Channel 02 | [Join](https://t.me/channel2) |
 | 03 | 🎬 Channel 03 | [Join](https://t.me/channel3) |
 | 04 | 🎬 Channel 04 | [Join](https://t.me/channel4) |
-| 05 | 🎬 Channel 05 | [Join](https://t.me/channel5) |
+| 05 | 🎬 TGV Cinema | [Join](https://t.me/TGVCinema) |
 | 06 | 🎬 Channel 06 | [Join](https://t.me/channel6) |
 | 07 | 🎬 Channel 07 | [Join](https://t.me/channel7) |
 | 08 | 🎬 Channel 08 | [Join](https://t.me/channel8) |
