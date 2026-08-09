@@ -6,7 +6,7 @@
 
 | # | Channel / Group | Link |
 |---|-----------------|------|
-| 01 | 🎬 CINEMAIN | [Join](https://t.me/cinemain_24) |
+| 01 | 🎬 **CINEMAIN — Movie App** | [Join](https://t.me/cinemain_24) |
 | 02 | 🎬 Cinemain Chat| [Join](https://t.me/channel2) |
 | 03 | 🎬 Channel 03 | [Join](https://t.me/channel3) |
 | 04 | 🎬 Channel 04 | [Join](https://t.me/channel4) |
