@@ -12,7 +12,7 @@
 
 ## 🎥 APP DEMO
 
-▶️ **[Watch CINEMAIN App Demo](assets/cinemain-demo.mp4)**
+▶️ [Watch App Demo](https://res.cloudinary.com/ts1cqo2g/video/upload/v1786267292/cinemain-demo.mp4)
 
 ---
 
