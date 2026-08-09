@@ -6,7 +6,6 @@
 
 ## 📱 APP PREVIEW
 
-![CINEMAIN App Screenshot]
 <p align="center">
   <img src="assets/cinemain-preview.jpg" width="500">
 </p>
@@ -15,7 +14,7 @@
 
 ## 🎥 APP DEMO
 
-▶️ [Watch App Demo](https://res.cloudinary.com/ts1cqo2g/video/upload/v1786267292/cinemain-demo.mp4)
+▶️ **[Watch CINEMAIN App Demo](https://res.cloudinary.com/ts1cqo2g/video/upload/v1786267292/cinemain-demo.mp4)**
 
 ---
 
@@ -51,7 +50,7 @@ Get access to the CINEMAIN app for just **₹50**.
 
 ## ⚠️ DISCLAIMER
 
-Please use the app and its content in accordance with
+Please use the app and its content in accordance with  
 applicable laws, copyright rules, and the service's terms.
 
 ---
