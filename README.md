@@ -17,7 +17,9 @@
 | 09 | 🎬 Channel 09 | [Join](https://t.me/channel9) |
 | 10 | 🎬 Channel 10 | [Join](https://t.me/channel10) |
 
----
+## 🔎 MOVIE SEARCH / REQUEST
+
+🎬 [Movie Search & Request Group](https://t.me/your_actual_request_group)
 
 ## 📌 NOTE
 
