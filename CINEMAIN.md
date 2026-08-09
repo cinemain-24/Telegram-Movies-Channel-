@@ -35,7 +35,7 @@
 
 Get access to the CINEMAIN app for just **₹50**.
 
-👉 **[🎬 GET CINEMAIN ACCESS](YOUR_CINEMAIN_ACCESS_LINK)**
+👉 **[🎬 GET CINEMAIN ACCESS](https://t.me/cinemain_24)**
 
 ---
 
