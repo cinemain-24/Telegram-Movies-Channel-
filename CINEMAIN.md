@@ -6,7 +6,10 @@
 
 ## 📱 APP PREVIEW
 
-![CINEMAIN App Screenshot](assets/cinemain-screenshot.png)
+![CINEMAIN App Screenshot]
+<p align="center">
+  <img src="assets/cinemain-preview.jpg" width="500">
+</p>
 
 ---
 
